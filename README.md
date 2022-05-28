@@ -145,10 +145,7 @@ extensions = ['sphinx_copybutton']
 
 # Latexpdf
 
-In linux, execute the following steps:
+In linux, execute the following steps to generate pdf for the project:
 
 1. `sudo apt-get install -y latexmk texlive-latex-extra`
 2. `make latexpdf` (inside docs folder)
-
-
-
